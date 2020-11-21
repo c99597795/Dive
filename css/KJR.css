@@ -1,0 +1,34 @@
+/*KJR.css*/
+body
+{
+	background-image: url(../img/background.png);
+       background-position:relative;
+       background-size:cover;
+       background-repeat:no-reapeat;
+	background-color:black;
+	font-family:"Microsoft JhengHei";
+}
+#narbar{
+    text-align:center;
+}
+#LoginIndex{
+	margin-top:8%; 
+	color:black; 
+	background-color: white;
+	border: 2px solid #afafaf;
+  	border-radius: 5px;
+	font-size:30px;
+	width:500px;
+	height:300px;
+}
+#SignIndex{
+	margin-top:10%;
+	padding:30px;
+	color:black; 
+	background-color:White;
+	border: 2px solid #afafaf;
+  	border-radius: 5px;
+	font-size:20px;
+	width:800px;
+	height:400px;
+}
